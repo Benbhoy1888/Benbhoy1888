@@ -1,9 +1,9 @@
 ## Hi there, I am Ben 👋
 
-- I am currently studying for a BEng in Computing at Edinburgh Napier University and will be starting my 4th year in September 2024
+- I am currently studying for a BEng in Computing at Edinburgh Napier University and will be starting my 4th year in September 2024!
 - Predicted `First Class` :trophy:
 - Enthusiastic in `Software Development` and `Cyber Security`
-- Love the Sphynx cat!
+- Love Gucci (My Sphynx)
 
 ## Skills
 
