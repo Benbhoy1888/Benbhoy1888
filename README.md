@@ -1,9 +1,9 @@
 ## Hi there, I am Ben 👋
 
 - I am currently studying for a BEng in Computing at Edinburgh Napier University and will be starting my 4th year in September 2024!
-- Predicted `First Class` :trophy:
-- Enthusiastic in `Software Development` and `Cyber Security`
-- Love Gucci (My Sphynx)
+- Predicted `First Class` :trophy:.
+- Enthusiastic about `Software Engineering` and `Cyber Security`.
+- Love Gucci (My Sphynx).
 
 ## Skills
 
@@ -40,8 +40,12 @@
 
 
 ## Currently Learning
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)
+### Web Technologies
+[![My Skills](https://skillicons.dev/icons?i=nextjs,tailwind)](https://skillicons.dev)
 ### Libraries and Runtimes
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 
 ## Statistics
